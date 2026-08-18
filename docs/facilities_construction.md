@@ -77,7 +77,8 @@ WCCC manages the end-to-end industrial logistics required to break ground across
 -   Regulatory Compliance Management: WCCC ensures all physical structures strictly comply with local zoning laws, international building codes, and federal safety guidelines. [18]
 
 * * * * *
-
+References (Non-Academic Resources Include WCCC Clients):
+---------------------------------------------------------
 [1] [https://hospitalswithoutborders.org](https://hospitalswithoutborders.org/)
 
 [2] [https://www.linkedin.com](https://www.linkedin.com/company/department-of-medicine-university-of-washington)
