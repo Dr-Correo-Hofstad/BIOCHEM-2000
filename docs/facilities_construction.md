@@ -78,11 +78,6 @@ WCCC manages the end-to-end industrial logistics required to break ground across
 
 * * * * *
 
-If you want to append this overview to your website or business documentation, let me know if we should:
-
--   Outline the specific engineering materials (such as antimicrobial surfaces or copper-alloy fixtures) used by WCCC in the blood banks.
--   Draft an accompanying press release announcing the global groundbreaking of the first collaborative international facility. [19]
-
 [1] [https://hospitalswithoutborders.org](https://hospitalswithoutborders.org/)
 
 [2] [https://www.linkedin.com](https://www.linkedin.com/company/department-of-medicine-university-of-washington)
